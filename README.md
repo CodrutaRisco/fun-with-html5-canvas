@@ -10,7 +10,7 @@ This is a colourful interactive drawing app built using HTML5 Canvas and vanilla
 
 ## How to run
 
-1. Clone the repository  https://github.com/CodrutaRisco/fun-with-html5-canvas.git
+1. Clone the repository :  https://github.com/CodrutaRisco/fun-with-html5-canvas.git
 2. Open `index.html` in your browser
 
 🔗 Live Demo  https://codrutarisco.github.io/fun-with-html5-canvas/
